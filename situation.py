@@ -1,3 +1,4 @@
+#situation hello
 class Situation:
     def __init__(self, left_non_terminal: str, right_part: list, dot_pos: int, next_letter: str):
         self.left_non_terminal = left_non_terminal
